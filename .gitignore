@@ -21,7 +21,3 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Model / dataset artifacts (optional)
-# Uncomment if you do not want large generated files in GitHub
-# data/
-# models/
