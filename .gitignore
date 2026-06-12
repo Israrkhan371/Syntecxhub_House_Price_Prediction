@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter / notebooks checkpoints
+.ipynb_checkpoints/
+
+# Test / coverage cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model / dataset artifacts (optional)
+# Uncomment if you do not want large generated files in GitHub
+# data/
+# models/
